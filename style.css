@@ -1,0 +1,28 @@
+.main{
+    border: 2px solid gray;
+    width: 250px;
+    text-align: center;
+    padding: 80px;
+    background-color: blue;
+    
+}
+
+
+.hi{
+    color: whitesmoke
+} 
+#result{
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+    font-size: 20px;
+    font-family: Montserrat, sans-serif;
+  }
+  
+.btn {
+    margin-top: 5px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Montserrat, sans-serif;
+    border: 0.02px solid black;
+  }
